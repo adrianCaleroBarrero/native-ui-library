@@ -1904,9 +1904,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@expo/cli@npm:0.22.5":
-  version: 0.22.5
-  resolution: "@expo/cli@npm:0.22.5"
+"@expo/cli@npm:0.22.6":
+  version: 0.22.6
+  resolution: "@expo/cli@npm:0.22.6"
   dependencies:
     "@0no-co/graphql.web": ^1.0.8
     "@babel/runtime": ^7.20.0
@@ -1917,7 +1917,7 @@ __metadata:
     "@expo/env": ~0.4.0
     "@expo/image-utils": ^0.6.0
     "@expo/json-file": ^9.0.0
-    "@expo/metro-config": ~0.19.0
+    "@expo/metro-config": ~0.19.8
     "@expo/osascript": ^2.0.31
     "@expo/package-manager": ^1.5.0
     "@expo/plist": ^0.2.0
@@ -1981,7 +1981,7 @@ __metadata:
     ws: ^8.12.1
   bin:
     expo-internal: build/bin/cli
-  checksum: 8d435e6c29f7f92bf89726a8365eec4d484ab01c7066da10acae9492302f3e4839245d19ff7c6ceb51ee1047187cae669be393157656aeda2620bdcb04c23227
+  checksum: 426cdd48532d3fe2c0d7661479f95cfbe6edc430fc49012d5d50084637844037154d9004e1f07716b5f5f37dcddc2b4701cfaa8124575aa229a32d6b9cdf6f5c
   languageName: node
   linkType: hard
 
@@ -2078,9 +2078,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@expo/fingerprint@npm:0.11.3":
-  version: 0.11.3
-  resolution: "@expo/fingerprint@npm:0.11.3"
+"@expo/fingerprint@npm:0.11.4":
+  version: 0.11.4
+  resolution: "@expo/fingerprint@npm:0.11.4"
   dependencies:
     "@expo/spawn-async": ^1.7.2
     arg: ^5.0.2
@@ -2094,7 +2094,7 @@ __metadata:
     semver: ^7.6.0
   bin:
     fingerprint: bin/cli.js
-  checksum: 2bc78cf0ff6da029c778fda1c7cd225876daa1335dec11f35510a535b37c09c68dc38c8525360fd7ce407a75c8dcb03cfa5c101655323abd05137e788bab9af8
+  checksum: 8a6018a757dab8159d14715b71b0b9ec1d4b50b5901e8c204ea25eb3703e1de4e71710fe9b5a0a3fb267c62d2b488e0e5ee3477defd8f1656f22565674efe1d8
   languageName: node
   linkType: hard
 
@@ -2127,9 +2127,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@expo/metro-config@npm:0.19.7, @expo/metro-config@npm:~0.19.0":
-  version: 0.19.7
-  resolution: "@expo/metro-config@npm:0.19.7"
+"@expo/metro-config@npm:0.19.8, @expo/metro-config@npm:~0.19.8":
+  version: 0.19.8
+  resolution: "@expo/metro-config@npm:0.19.8"
   dependencies:
     "@babel/core": ^7.20.0
     "@babel/generator": ^7.20.5
@@ -2149,7 +2149,7 @@ __metadata:
     minimatch: ^3.0.4
     postcss: ~8.4.32
     resolve-from: ^5.0.0
-  checksum: fe05a4a21bb1b36a64273f6df029f473fe2b8c25fc51e15e58242cea133870bf1190bf005f8d5e3812124267e8716825c10730f7e96e40d7ba01070ee345677a
+  checksum: 0146faee1c3be184315260b0d6bd263df17b05dbd042ae49744ca4571f2548bb22b1b67e54d21aaecd5c9232fbf5911f3c3e5eb6807433069422fab37ba0eef4
   languageName: node
   linkType: hard
 
@@ -5763,9 +5763,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.73":
-  version: 1.5.73
-  resolution: "electron-to-chromium@npm:1.5.73"
-  checksum: 9e23966afabda22090ebd603e8312af5045aca55f02b8490f5dc66e3bcd2dfefbe3ab0968a587050604e9f398bded342315aa2ec78e418d37c7f237c2a2c69b9
+  version: 1.5.74
+  resolution: "electron-to-chromium@npm:1.5.74"
+  checksum: e93db5fdfafe927dcefe2ffef5b8670ae0c340eb8a4fe176918ec8efa53c37aff0ba4c3649c234950af2809d16a186ffead64dd921c9021d629658bf6d17c21f
   languageName: node
   linkType: hard
 
@@ -6507,15 +6507,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"expo-file-system@npm:~18.0.5":
-  version: 18.0.5
-  resolution: "expo-file-system@npm:18.0.5"
+"expo-file-system@npm:~18.0.6":
+  version: 18.0.6
+  resolution: "expo-file-system@npm:18.0.6"
   dependencies:
     web-streams-polyfill: ^3.3.2
   peerDependencies:
     expo: "*"
     react-native: "*"
-  checksum: 86d77ef527bcf78bfad12dcbf50b4a2ca6e161c0e79e3d3ccc2290daf62314e066c34ca25fba6f11ef5e51aafab380917f977bac49b9de954f28c7c99129e764
+  checksum: a0b515f7ad7e9f9c209d1923a01ba4f953e3154f28a96083099a9c20afb538b284b31d45ab30327498e0d8824109b121ca4d8a90cd8916f644e4bab07a1425b5
   languageName: node
   linkType: hard
 
@@ -6559,12 +6559,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"expo-modules-core@npm:2.1.1":
-  version: 2.1.1
-  resolution: "expo-modules-core@npm:2.1.1"
+"expo-modules-core@npm:2.1.2":
+  version: 2.1.2
+  resolution: "expo-modules-core@npm:2.1.2"
   dependencies:
     invariant: ^2.2.4
-  checksum: 3453031fe63d3230bd50fcd2e47cd2da559f6b0b284664956c498da6e54a163d77269ab455ca7f09c51ab41915479b61abb13c5ea30ee75bf6f5a22ec3becced
+  checksum: 2d9cc22127755a6fc8432bc928db8d76d702faadf86d74c2364f236ce1f410a2826eba485e6b6566005a3b273ca80f8fa501e06f626b0a4a7e2ef4ecf0bdb720
   languageName: node
   linkType: hard
 
@@ -6579,24 +6579,24 @@ __metadata:
   linkType: hard
 
 "expo@npm:~52.0.18":
-  version: 52.0.18
-  resolution: "expo@npm:52.0.18"
+  version: 52.0.19
+  resolution: "expo@npm:52.0.19"
   dependencies:
     "@babel/runtime": ^7.20.0
-    "@expo/cli": 0.22.5
+    "@expo/cli": 0.22.6
     "@expo/config": ~10.0.6
     "@expo/config-plugins": ~9.0.12
-    "@expo/fingerprint": 0.11.3
-    "@expo/metro-config": 0.19.7
+    "@expo/fingerprint": 0.11.4
+    "@expo/metro-config": 0.19.8
     "@expo/vector-icons": ^14.0.0
     babel-preset-expo: ~12.0.4
     expo-asset: ~11.0.1
     expo-constants: ~17.0.3
-    expo-file-system: ~18.0.5
+    expo-file-system: ~18.0.6
     expo-font: ~13.0.1
     expo-keep-awake: ~14.0.1
     expo-modules-autolinking: 2.0.4
-    expo-modules-core: 2.1.1
+    expo-modules-core: 2.1.2
     fbemitter: ^3.0.0
     web-streams-polyfill: ^3.3.2
     whatwg-url-without-unicode: 8.0.0-3
@@ -6615,7 +6615,7 @@ __metadata:
       optional: true
   bin:
     expo: bin/cli
-  checksum: df7014d6dc1e20f991d9e98697c4165657f1204d8dad48c3c59233ab9ad976734885943f2fe9b78328954ac31bf052b804dbbbb73358d58a86c1bdc14591a9e4
+  checksum: b8620480ba92f7546b54d7ea1f6534aec2755f0aa42b2a1e7676be89dd31b37d5ad6830db76446e7283a28eb9169d6b56741a136bc071d0cb9258b0f32c07505
   languageName: node
   linkType: hard
 
@@ -11750,25 +11750,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-native-ui-library-primary-button@workspace:primary-button":
+"react-native-native-ui-library-adriancalerodev@workspace:.":
   version: 0.0.0-use.local
-  resolution: "react-native-native-ui-library-primary-button@workspace:primary-button"
-  dependencies:
-    "@babel/core": ^7.20.0
-    "@expo/metro-runtime": ~4.0.0
-    expo: ~52.0.18
-    expo-status-bar: ~2.0.0
-    react: 18.3.1
-    react-dom: 18.3.1
-    react-native: 0.76.5
-    react-native-builder-bob: ^0.35.2
-    react-native-web: ~0.19.13
-  languageName: unknown
-  linkType: soft
-
-"react-native-native-ui-library@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "react-native-native-ui-library@workspace:."
+  resolution: "react-native-native-ui-library-adriancalerodev@workspace:."
   dependencies:
     "@commitlint/config-conventional": ^17.0.2
     "@evilmartians/lefthook": ^1.5.0
@@ -11791,6 +11775,22 @@ __metadata:
   peerDependencies:
     react: "*"
     react-native: "*"
+  languageName: unknown
+  linkType: soft
+
+"react-native-native-ui-library-primary-button@workspace:primary-button":
+  version: 0.0.0-use.local
+  resolution: "react-native-native-ui-library-primary-button@workspace:primary-button"
+  dependencies:
+    "@babel/core": ^7.20.0
+    "@expo/metro-runtime": ~4.0.0
+    expo: ~52.0.18
+    expo-status-bar: ~2.0.0
+    react: 18.3.1
+    react-dom: 18.3.1
+    react-native: 0.76.5
+    react-native-builder-bob: ^0.35.2
+    react-native-web: ~0.19.13
   languageName: unknown
   linkType: soft
 
