@@ -1,7 +1,7 @@
 {
   "name": "react-native-native-ui-library",
-  "version": "0.1.0",
-  "description": "Module ui kit for reart native",
+  "version": "0.1.1",
+  "description": "Module ui kit for react native",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
