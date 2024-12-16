@@ -37,7 +37,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-native-ui-library-example",
+    "primary-button": "yarn workspace react-native-native-ui-library-primary-button",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -91,13 +91,13 @@
     "react-native": "*"
   },
   "workspaces": [
-    "example"
+    "primary-button"
   ],
   "packageManager": "yarn@3.6.1",
   "jest": {
     "preset": "react-native",
     "modulePathIgnorePatterns": [
-      "<rootDir>/example/node_modules",
+      "<rootDir>/primary-button/node_modules",
       "<rootDir>/lib/"
     ]
   },
