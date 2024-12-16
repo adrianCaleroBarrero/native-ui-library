@@ -1,4 +1,3 @@
-module.exports = {
-  PrimaryButton: require('../lib/typescript/module/primary-button/src/App')
-    .default,
-};
+import PrimaryButton from '../lib/typescript/module/primary-button/src/App';
+
+export default PrimaryButton;
