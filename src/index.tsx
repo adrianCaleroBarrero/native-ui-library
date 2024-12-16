@@ -1,3 +1,3 @@
-import PrimaryButton from '../lib/typescript/module/primary-button/src/App';
+import PrimaryButton from '../primary-button/src/App';
 
 export default PrimaryButton;
